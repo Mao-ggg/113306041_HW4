@@ -1,0 +1,85 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+
+        <title>113306041_Portpolio</title>
+
+        <!-- Load external CSS styles -->
+        <link rel="stylesheet" href="styles.css">
+
+    </head>
+
+    <body>
+
+        <table border="1" style="width:60%">
+            <tr style="background-color: #76alad">
+                <th colspan="3" style="text-aligen: center;">歡迎來到毛蔡瀚勍的個人作品集</th>
+            </tr>
+            <tr>
+                <th rowspan="4"></th>
+                <th style="text-aligen: left">姓名</th>
+                <th style="text-aligen: left">毛蔡瀚勍</th>
+            </tr>
+            <tr>
+                <th style="text-aligen: left">學校</th>
+                <th style="text-aligen: left">政治大學</th>
+            </tr>
+            <tr>
+                <th style="text-aligen: left">科系</th>
+                <th style="text-aligen: left">資訊管理系</th>
+            </tr>
+            <tr>
+                <th style="text-aligen: left">年級</th>
+                <th style="text-aligen: left">大一</th>
+            </tr>
+            <tr>
+                <th colspan="3">學習歷程</th>
+            </tr>
+            <tr>
+                <th style="text-aligen: left">程式語言</th>
+                <th colspan="2"><ul><li>Phython基礎</li><br><li>HTML入門</li></ul></th>
+            </tr>
+            <tr>
+                <th style="text-aligen: left">修課紀錄</th>
+                <th colspan="2">
+                    <ul>
+                        <li>計算機概論</li><br>
+                        <li>程式設計</li>
+                    </ul>
+                </th>
+            </tr>
+            <tr style="background-color: #76alad">
+                <th colspan="3" style="text-aligen: center">作品集</th>
+            </tr>
+            <tr>
+                <th colspan="3" style="text-aligen: left">作業連結清單<br>
+                    <ul>
+                        <li></li><br>
+                        <li></li><br>
+                        <li></li>
+                    </ul>
+                </th>
+            </tr>
+            <tr>
+                <th colspan="3" style="text-aligen: left">
+                    <ul>
+                        <li></li><br>
+                        <li></li><br>
+                        <li></li>
+                    </ul>
+                </th>
+            </tr>
+            <tr style="background-color: #76alad">
+                <th colspan="3" style="text-aligen: center">聯絡方式</th>
+            </tr>
+            <tr>
+                <th></th>
+            </tr>
+
+
+        </table>
+
+
+    </body>
+
+</html>
